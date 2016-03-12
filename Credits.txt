@@ -1,4 +1,4 @@
-﻿Mark Gray <mark@fsharp.tv> @MarkRGray
+Mark Gray <mark@fsharp.tv> @MarkRGray
 Brice Fernandes <brice@fsharp.tv> @fractallambda
 Jeff Heon <jfheon@gmail.com> @jeffheon
 Pierre Irrmann <pierre.irrmann@gmail.com> @pirrmann
@@ -16,3 +16,4 @@ Enos Recanati <enos.recanati@gmail.com> @enosrecanati
 Mark Bennette <silent_minority@ausi.com>
 Narongrit Sakulchapornlerts @nJakajee
 Musa Jahanghir <musa.jahanghir@Live.com>
+Christian Perez < @bornagainfatkid > F#!
