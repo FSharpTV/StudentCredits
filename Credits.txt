@@ -24,3 +24,4 @@ Delmer Johnson @DelmerJohnson
 PetarR <fakemail@gmail.com>
 ajaxuk <ajaxukuk@yahoo.co.uk>
 EngineerSpock <engineerspock@outlook.com> @EngineerSpock
+Dmitry Zyadik	<zyadik@mail.ru>
