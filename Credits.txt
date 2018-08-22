@@ -1,4 +1,4 @@
-Mark Gray <mark@fsharp.tv> @MarkRGray
+﻿Mark Gray <mark@fsharp.tv> @MarkRGray
 Brice Fernandes <brice@fsharp.tv> @fractallambda
 Jeff Heon <jfheon@gmail.com> @jeffheon
 Pierre Irrmann <pierre.irrmann@gmail.com> @pirrmann
@@ -47,3 +47,4 @@ Adnan Chughtai @adnan
 olga rose @olgarose
 Bill Karvelas <vaskarvelas@gmail.com>
 Xingyu Lu <lxy122@umd.edu>
+Reinto <rein@reinto.nl> @ReynWatseszn
